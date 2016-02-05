@@ -24,22 +24,20 @@ let QuestionInput = React.createClass({
     let remainderColor = remainder > 20 ? '#9C9893' : '#FF9393';
     this.props.textValue(this.state.text);//this works but not sure if its the right way
     return (
-      <View>
-        <View style={styles.questionContainer}>
-          <TextInput
-            ref='textInput'
-            placeholder={this.props.placeholder}
-            multiline={true}
-            maxLength={textLimit}
-            onChangeText={(text) => {this.setState({text: text});this.props.textValue(text);}}
-            value={this.state.text}
-            autoCorrect={false}
-            style={styles.multiline}
-          />
-          <Text style={[styles.remainder, {color: remainderColor, fontWeight: 'bold'}]}>
-            {remainder}
-          </Text>
-        </View>
+      <View style={styles.questionContainer}>
+        <TextInput
+          ref='textInput'
+          placeholder={this.props.placeholder}
+          multiline={true}
+          maxLength={textLimit}
+          onChangeText={(text) => {this.setState({text: text});this.props.textValue(text);}}
+          value={this.state.text}
+          autoCorrect={false}
+          style={styles.multiline}
+        />
+        <Text style={[styles.remainder, {color: remainderColor, fontWeight: 'bold'}]}>
+          {remainder}
+        </Text>
       </View>
     )
   }

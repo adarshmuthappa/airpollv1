@@ -258,13 +258,13 @@ let GroupViewLatest = React.createClass({
     this._currentRow = rowID;
     console.log(this.refs.pollCardRef);
     // let activeOption = this.refs.pollCardRef.getCurrentActiveOption();
-    this.props.navigator.push({
-      id: 'thought-view',
-      sceneConfig: Navigator.SceneConfigs.FloatFromRight,
-      data: this.data.groupThoughts[rowID],
-      preSelectOption: this._activeOption[rowID],
-      thoughtViewCallback: this.setActiveOption
-    })
+    // this.props.navigator.push({
+    //   id: 'thought-view',
+    //   sceneConfig: Navigator.SceneConfigs.FloatFromRight,
+    //   data: this.data.groupThoughts[rowID],
+    //   preSelectOption: this._activeOption[rowID],
+    //   thoughtViewCallback: this.setActiveOption
+    // })
   },
 });
 
