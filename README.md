@@ -1,5 +1,5 @@
 # airpoll
-A mobile application developed using React Native to enable people to create polls for their friends to vote on. This app uses many of the most popular libraries available for RN. It uses Parse as a backend. You can change the key to your key and login/signup. Polls can be created and queried for in the app. However, logic to determine poll results, record votes etc is not implemented. The app uses *RN 0.17*.
+A mobile application developed using React Native to enable people to create polls for their friends to vote on. This app uses many of the most popular libraries available for RN. It uses Parse as a backend. You can change the key to your key and login/signup. Polls can be created and queried for in the app. However, logic to determine poll results, record votes etc is not implemented. The app uses **RN 0.17**.
 
 ### TODO
 - [ ] Android support
