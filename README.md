@@ -4,10 +4,10 @@ A mobile application developed using React Native to enable people to create pol
 ### TODO
 - [ ] Android support
 - [ ] Redux support
-- [ ] Major bug fixes
+- [ ] Major bug fixes wrt. Modalbox and gesture recognizers
 
 ### Steps to use
-1. git clone https://github.com/adarshmuthappa/airpoll.git OR git@github.com:adarshmuthappa/airpoll.git
+1. git clone https://github.com/adarshmuthappa/airpoll.git
 2. npm install
 3. Open in xcode
 4. Run
