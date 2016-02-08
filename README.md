@@ -26,3 +26,5 @@ A mobile application developed using React Native to enable people to create pol
 
 A big thank you to all the authors and collaborators of these projects.
 
+### License
+Use it however you want to. **Build something awesome!**
