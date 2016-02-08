@@ -13,16 +13,16 @@ A mobile application developed using React Native to enable people to create pol
 4. Run
 
 ### Using the following
-[ParseReact](https://github.com/ParsePlatform/ParseReact)
-[react-native-navbar](https://github.com/react-native-fellowship/react-native-navbar)
-[react-native-action-button](https://github.com/mastermoo/react-native-action-button)
-[react-native-gesture-recognizers](https://github.com/johanneslumpe/react-native-gesture-recognizers)
-[react-native-image-picker](https://github.com/marcshilling/react-native-image-picker)
-[react-native-modalbox](https://github.com/maxs15/react-native-modalbox)
-[react-native-overlay](https://github.com/brentvatne/react-native-overlay)
-[react-native-simple-store](https://github.com/jasonmerino/react-native-simple-store)
-[react-native-swiper](https://github.com/leecade/react-native-swiper)
-[react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+*[ParseReact](https://github.com/ParsePlatform/ParseReact)
+*[react-native-navbar](https://github.com/react-native-fellowship/react-native-navbar)
+*[react-native-action-button](https://github.com/mastermoo/react-native-action-button)
+*[react-native-gesture-recognizers](https://github.com/johanneslumpe/react-native-gesture-recognizers)
+*[react-native-image-picker](https://github.com/marcshilling/react-native-image-picker)
+*[react-native-modalbox](https://github.com/maxs15/react-native-modalbox)
+*[react-native-overlay](https://github.com/brentvatne/react-native-overlay)
+*[react-native-simple-store](https://github.com/jasonmerino/react-native-simple-store)
+*[react-native-swiper](https://github.com/leecade/react-native-swiper)
+*[react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 
-#### Big thanks to the authors and collaborators in all of these libraries.
+#### Big thanks to the authors and collaborators of these libraries.
 
