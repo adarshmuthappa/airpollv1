@@ -24,5 +24,5 @@ A mobile application developed using React Native to enable people to create pol
 * [react-native-swiper](https://github.com/leecade/react-native-swiper)
 * [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 
-#### Big thanks to the authors and collaborators of these libraries.
+A big thank you to all the authors and collaborators of these projects.
 
